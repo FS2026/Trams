@@ -6,6 +6,10 @@ This project analyzes tram traffic intensity in Warsaw based on schedule data fr
 2. Scraping: Python script using `requests` and `BeautifulSoup` collects the number of daily trams arrivals from each tram stop.
 3. Visualization: Output imported into QGIS to generate a map showing tram line activity.
 
+# Output Files
+`zlicznik_3.py`: code for counting number of trams
+`tramwaje.pdf`: map showing tram traffic intensity (generated in QGIS)
+
 # Technologies Used
 - Python (`openpyxl`, `requests`, `bs4`)
 - QGIS (for spatial visualization)
