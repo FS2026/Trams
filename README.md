@@ -8,6 +8,7 @@ This project analyzes tram traffic intensity in Warsaw based on schedule data fr
 
 ## Files
 `zlicznik_3.py`: code for counting number of trams
+
 `tramwaje.pdf`: map showing tram traffic intensity (generated in QGIS)
 
 ## Technologies Used
